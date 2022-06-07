@@ -1,7 +1,22 @@
 {
-  "posts": [],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
+    "posts": [{
+            "id": "1",
+            "name": "sandhya",
+            "email": "sandhyajaish@gmail.com"
+        },
+        {
+            "id": "2",
+            "name": "sheetal",
+            "email": "sheetal@gmail.com"
+        },
+        {
+            "id": "3",
+            "name": "tejas",
+            "email": "tejas@gmail.com"
+        }
+    ],
+    "comments": [],
+    "profile": {
+        "name": "typicode"
+    }
 }
